@@ -68,7 +68,7 @@ let wordList = [
         hint: "outer space"
     },
     {
-        word: "kay/o",
+        word: "kayo",
         hint: "cool ahh robot"
     },
     {
